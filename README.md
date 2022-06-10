@@ -5,4 +5,4 @@
   <li> 🤝 I’m looking to collaborate on open source projects that are targeted towards a technical audience. </li>
   <li> 📫 You can reach me at my email: tanishk.sahni2002@gmail.com </li>
  </ul>
- <p> <strong> &nbspLet's explore what we can do together in this world of infinite opportunity.</strong> </p>
+ <p> <strong> &ensp; Let's explore what we can do together in this world of infinite opportunity.</strong> </p>
