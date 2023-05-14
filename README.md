@@ -1,5 +1,5 @@
 <ul>
-  <li> 👋 Hi, I'm <b>@tanishksahni</b> </li>.</li>
+  <li> 👋 Hi, I'm <b>@tanishksahni</b> </li>
   <li> 🤝 I’m looking to collaborate on open source projects. </li>
   <li> 📫 You can reach me at my email: <a href="tanishk.sahni2002@gmail.com">tanishk.sahni2002@gmail.com</a> </li>
  </ul>
