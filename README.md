@@ -18,8 +18,7 @@ Passionate about building mobile applications, exploring AI & ML, and creating i
 ## Areas of Interest
 
 - Mobile application development
-- Artificial Intelligence & Machine Learning
-- Cloud application development
+- Cloud Systems
 
 ## Collaboration
 
