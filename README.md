@@ -28,7 +28,7 @@ Eager to collaborate on open source projects. Let's explore the infinite possibi
 
 <p align="center">
     <a href="https://github.com/tanishksahni/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tanishk Sahni's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishksahni&theme=black-ice&hide_border=true&count_private=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tanishk Sahni's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishksahni&theme=black-ice&hide_border=true&count_private=true&stroke=0000&background=transparent"/>
     </a>
 </p>
 <br>
