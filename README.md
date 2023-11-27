@@ -26,8 +26,21 @@ Eager to collaborate on open source projects. Let's explore the infinite possibi
 
 ## GitHub Stats 📊
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanishksahni&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishksahni&layout=compact&theme=dark)
+<p align="center">
+    <a href="https://github.com/tanishksahni/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tanishk Sahni's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishksahni&theme=black-ice&hide_border=true&count_private=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+<br>
+<p align="center">
+  <a href="https://github.com/tanishksahni/github-readme-stats">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tanishksahni&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/tanishksahni/github-readme-stats">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishksahni&layout=compact&theme=react&count_private=true&hide_border=true&bg_color=0D1117" />
+  </a>
+  
+</p>
 
 ## Get in Touch 📫
 
