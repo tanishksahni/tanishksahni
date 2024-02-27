@@ -5,7 +5,7 @@ Passionate about building mobile applications, exploring AI & ML, and creating i
 ## Tech Stacks
 
 - Cross-platform and native mobile app development using Swift, Flutter, and Dart.
-- Proficient in Java, Spring Boot, C, C++, HTML, CSS, JavaScript, and Bootstrap.
+- Proficient in Java, C++, Python.
 
 ## Databases
 
