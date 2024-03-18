@@ -1,29 +1,16 @@
 # Hi there, I'm Tanishk Sahni! 👋
-
-Passionate about building user-centric mobile applications. I love collaborating on open source projects.
+Passionate about building user-centric mobile applications. Eager to collaborate on open source projects. Let's explore the infinite possibilities together!
 
 ## Tech Stacks
 
 - Native iOS development using SwiftUI and UIKit.
 - Cross-platform and native mobile app development using  Flutter, and Dart.
 - Proficient in Java, C++, Python.
-
-## Databases
-
 - Experienced in working with MongoDB, and PostgreSQL.
 
-## Firebase
-
-- Proficient in utilizing Firebase for various services such as Firestore, Authentication, and Cloud Functions.
-
 ## Areas of Interest
-
 -  Design Thinking
 -  Mobile application development
-
-## Collaboration
-
-Eager to collaborate on open source projects. Let's explore the infinite possibilities together!
 
 ## GitHub Stats 📊
 
